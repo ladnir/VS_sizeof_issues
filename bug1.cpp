@@ -10,3 +10,4 @@ template<class T> using D = B<sizeof(A<T, int>)>;       // doesn't work
 
 
 
+int main() {}
